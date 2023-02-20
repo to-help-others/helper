@@ -22,3 +22,5 @@ https://epg.pw/stream/b96a41c2a8567af56991003e80e43e4dfdfad8a0c19a7da404dd753179
 
 #EXTINF:-1 tvg-name="San Andreas (2015)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/San_Andreas_poster.jpg" group-title="English-Movies", San Andreas (2015)
 https://firebasestorage.googleapis.com/v0/b/test-ce124.appspot.com/o/San-Andreas.mp4?alt=media&token=8f86e3c9-f6c9-417d-bdf0-a2674419cb85
+#EXTINF:-1 tvg-name="Uncharted (2022)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Uncharted_Official_Poster.jpg" group-title="English-Movies", Uncharted (2022)
+https://firebasestorage.googleapis.com/v0/b/test-ce124.appspot.com/o/Uncharted-2022.mp4?alt=media&token=b29e1c9c-faae-45cd-adc6-0dcfda15c06f
